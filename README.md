@@ -9,6 +9,6 @@ mvn clean install -DskipTests
 
 Once artifacts is created please follow below set of commands to run docker compose file.
 
-docker-compose up -d --build          To build docker images and deploy using Docker compose file
+docker-compose up -d --build          (To build docker images and deploy using Docker compose file)
 
-docker-compose down                   Bring down all containers created using Docker compose
+docker-compose down                   (Bring down all containers created using Docker compose)
